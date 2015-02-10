@@ -1,0 +1,5 @@
+/scratch/stephenchen/Dropbox/ShapeAttribute/depthNet/hdf5/TrainTest_Batch_304x228/HDF_DepthNet_7_304x228.h5
+/scratch/stephenchen/Dropbox/ShapeAttribute/depthNet/hdf5/TrainTest_Batch_304x228/HDF_DepthNet_8_304x228.h5
+/scratch/stephenchen/Dropbox/ShapeAttribute/depthNet/hdf5/TrainTest_Batch_304x228/HDF_DepthNet_9_304x228.h5
+/scratch/stephenchen/Dropbox/ShapeAttribute/depthNet/hdf5/TrainTest_Batch_304x228/HDF_DepthNet_10_304x228.h5
+/scratch/stephenchen/Dropbox/ShapeAttribute/depthNet/hdf5/TrainTest_Batch_304x228/HDF_DepthNet_11_304x228.h5
